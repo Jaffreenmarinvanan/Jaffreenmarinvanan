@@ -61,7 +61,7 @@
 <br clear="all" />
 
 
-## 🛠️ Skills
+## 🧰 Skills
 <p align="center">
 <table>
 <tr>
